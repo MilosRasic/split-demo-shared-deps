@@ -1,0 +1,26 @@
+{
+  "name": "@split-demo/shared-deps",
+  "version": "1.0.0",
+  "description": "Deployment Split Demo Shared Dependencies",
+  "main": "index.js",
+  "author": "Miloš Rašić <milos.rasic@gmail.com> (https://github.com/MilosRasic)",
+  "license": "MIT",
+  "dependencies": {
+    "@bitchcraft/keyconst": "^1.0.1",
+    "axios": "^0.18.0",
+    "classlist-polyfill": "^1.2.0",
+    "date-fns": "^1.29.0",
+    "loadable-components": "^2.2.3",
+    "nodelist-foreach-polyfill": "^1.2.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1",
+    "react-hot-loader": "^4.3.8",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.3.0",
+    "url-search-params-polyfill": "^5.0.0"
+  }
+}
