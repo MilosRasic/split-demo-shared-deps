@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Deployment Split Demo Shared Dependencies",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MilosRasic/split-demo-shared-deps.git"
+  },
   "author": "Miloš Rašić <milos.rasic@gmail.com> (https://github.com/MilosRasic)",
   "license": "MIT",
   "dependencies": {
